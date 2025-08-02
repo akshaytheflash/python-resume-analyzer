@@ -13,3 +13,7 @@ the backend is hosted at `https://python-resume-analyzer.onrender.com/`, if it i
 ### known bugs
 
 duplicacies in output
+
+### proof of work
+
+https://github.com/user-attachments/assets/9f167e97-f10f-4cd2-96ac-540bc43251e2
